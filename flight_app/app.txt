@@ -1,0 +1,19 @@
+create users and flight model
+-- users
+    username
+    email
+    password
+
+    flight -- relationship
+
+-- fights
+      id: int
+  flight_number
+    destination: str
+    departure
+    user_id -- relationship
+
+
+   
+
+
